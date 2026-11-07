@@ -2,6 +2,9 @@
 
 Coleção pessoal de links, comandos e scripts para competições CTF.
 
+replit.com
+github.com/codespaces
+
 ## 📁 Estrutura
 
 | Arquivo | Conteúdo |
